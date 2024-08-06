@@ -1,0 +1,1 @@
+# workerd-namedExports-capnp-repro
