@@ -1,5 +1,3 @@
-// default export
-module.exports = '__default__';
 
 // exports declared as named ones in config.capnp
 exports.foo = '__foo__';
